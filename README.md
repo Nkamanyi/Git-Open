@@ -2,12 +2,12 @@
 
 The course material has been split to four different modules:
 
-Basics
-Intermediate
-Advanced
-GitLab
-After basics you know how to:
+- Basics
+- Intermediate
+- Advanced
+- GitLab
 
+# After basics you know how to:
 Create new commits
 Choose files for commits
 Look at version history
